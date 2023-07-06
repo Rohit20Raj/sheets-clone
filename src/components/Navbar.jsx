@@ -17,10 +17,10 @@ const Navbar = ({ handleDownload }) => {
                                     File
                                 </a>
                                 <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
-                                    <li><a className="dropdown-item" href="/">Action</a></li>
-                                    <li><a className="dropdown-item" href="/">Another action</a></li>
+                                    <li><a className="dropdown-item" href="/">New</a></li>
+                                    <li><a className="dropdown-item" href="/">Open</a></li>
                                     <li><hr className="dropdown-divider" /></li>
-                                    <li><a className="dropdown-item" href="/">Something else here</a></li>
+                                    <li><a className="dropdown-item" href="/">Import</a></li>
                                 </ul>
                             </li>
                             {/* <li className="nav-item">
